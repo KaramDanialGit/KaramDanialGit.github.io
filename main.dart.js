@@ -63063,7 +63063,7 @@ return A.br([null],t.H)},
 $S:0}
 A.a1_.prototype={
 $0(){var s=document.createElement("a")
-s.href="assets/Nov_Resume_KD.pdf"
+s.href="assets/pdfs/Nov_Resume_KD.pdf"
 s.download="karam_danial_resume.pdf"
 s.click()
 return A.br([null],t.H)},
